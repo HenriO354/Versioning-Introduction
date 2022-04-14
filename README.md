@@ -1,6 +1,5 @@
 # Versioning-Introduction
-#  
-Exercise
+# 
 Getting Started - What is Git?
 What is Git?
 
